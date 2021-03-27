@@ -1,0 +1,5 @@
+KEY-6-II = 59
+KEY-6-V = 14
+KEY-6-VI = 56
+KEY-6-VII = 17
+KEY-6-VIII = 63
